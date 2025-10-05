@@ -20,6 +20,3 @@ Developed a decentralized voting platform using blockchain technology to ensure 
 ## Outcomes
 - Eliminated possibility of vote tampering and double voting
 - Demonstrated end-to-end secure and verifiable voting workflow
-
-## Keywords
-Blockchain • Smart Contracts • Cybersecurity • Decentralized Applications
